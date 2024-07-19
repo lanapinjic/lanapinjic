@@ -1,4 +1,4 @@
-# ✨ Hi I'm Lana! 
+# ✨ Hi, I'm Lana! 
 **About Me:** </br>
 👩🏻‍🎓 Studying Computer Science at the University of Michigan - Ann Arbor <br/>
 😎 Up-and-Coming Junior Software Engineer for Spring 2025 <br/>
