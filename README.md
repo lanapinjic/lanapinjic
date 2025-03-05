@@ -2,7 +2,7 @@
 **About Me:** </br>
 👩🏻‍🎓 Studying Computer Science at the University of Michigan - Ann Arbor <br/>
 😎 Up-and-Coming New-Grad Software Engineer for Spring 2025 <br/>
-💪 Currently working on a Weather Closet App project with Tensorflow, Weather API, Flutter, etc...  <br/>
+💪 Currently working on a mockInterview project! <br/>
 🎨 Expressing my creativity through projects, follow along!<br/>
 <br>Follow me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-pinjic) to learn more!
 
